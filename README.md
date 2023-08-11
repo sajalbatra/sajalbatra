@@ -34,7 +34,7 @@
 <a href="https://www.youtube.com/c/@sajalbatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sajalbatra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/batrasajal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="batrasajal7" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/batrasmgwk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="batrasmgwk" height="30" width="40" /></a>
-<a href="/https://sajalbatra.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sajalbatra.hashnode.dev/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
