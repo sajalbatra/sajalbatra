@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sajal Batra](https://github.com/sajalbatra)</h1>
+<h1 align="center">Hi 👋, I'm Sajal Batra</h1>
 <h3 align="center">A Passionate Full Stack Web | UI/UX Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajalbatra&label=Profile%20views&color=0e75b6&style=flat" alt="sajalbatra" /> </p>
