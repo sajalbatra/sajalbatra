@@ -45,3 +45,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalbatra&show_icons=true&locale=en" alt="sajalbatra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajalbatra&" alt="sajalbatra" /></p>
+
+
+<h3 align="center">Badges</h3>
+[![An image of @sajalbatra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajalbatra)](https://holopin.io/@sajalbatra)
+
