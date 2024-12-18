@@ -12,7 +12,8 @@
 ## 🏆Profile Views:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sajalbatra&label=Profile%20views&color=0e75b6&style=flat" alt="sajalbatra" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/018dea58-3112-4f1e-97eb-2f6d4dafd509.svg)](https://wakatime.com/@018dea58-3112-4f1e-97eb-2f6d4dafd509)
+## 🔝Number of hours Coded Since 27 Feb 2024:
+<p align="center">[![wakatime](https://wakatime.com/badge/user/018dea58-3112-4f1e-97eb-2f6d4dafd509.svg)](https://wakatime.com/@018dea58-3112-4f1e-97eb-2f6d4dafd509) </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sajalbatra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
